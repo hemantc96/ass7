@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+
 .top{
     margin: 0px 0px 15px 0px;
     text-align: center;
@@ -22,7 +23,7 @@
     background-color: lightblue;
     border: 4px solid red;
     border-radius: 10px;
-    
+    font-weight: bold;
 }
 
 ul{
@@ -40,7 +41,7 @@ ul{
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-
+    font-weight: bold;
 }
 
 .lorem p{
@@ -110,18 +111,21 @@ ul{
     text-align: center;
     font-size: 25px;
     font-weight: bold;
+    height: 65px;
 }
 
 .l22{
     background-color: dodgerblue;
     font-size: 25px;
     font-weight: bold;
+    height: 65px;
 }
 
 .l23{
     background-color: rgb(51, 51, 247);
     font-size: 20px;
     font-weight: bold;
+    height: 65px;
 }
 
 .right{
@@ -145,7 +149,7 @@ ul{
     font-weight: bold;
     font-size: 20px;
     grid-column: 1 / span 3;
-    height: 100px;
+    height: 150px;
 }
 
 .l4{
